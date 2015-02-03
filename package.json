@@ -1,0 +1,12 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "Logger for requests.",
+  "main": "log_requests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Kex",
+  "license": "MIT"
+}
