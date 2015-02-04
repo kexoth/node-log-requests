@@ -2,7 +2,7 @@
 
 ## Sample
 
-You can try the requests logger if you set your Base URL [here](http://log-requests.herokuapp.com) & watch the logs [here](http://log-requests.herokuapp.com).
+You can try the requests logger if you set your Base URL [here](http://log-requests.herokuapp.com) & watch the logs [here](http://log-requests.herokuapp.com/log).
 
 ## Usage
 
