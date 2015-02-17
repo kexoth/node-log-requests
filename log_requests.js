@@ -2,7 +2,7 @@ var http = require('http');
 var url = require('url');
 
 var requests = [];
-var port = Number(process.env.PORT || 5000);;
+var port = Number(process.env.PORT || 5000);
 
 function reqHandler(req, res) {
 	
